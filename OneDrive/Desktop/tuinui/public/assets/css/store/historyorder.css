@@ -1,0 +1,21 @@
+.centered {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+.colitem{
+    background: white;
+    border: none;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+.colheader{
+    border: none;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+.fc{
+    color: #006185;
+}

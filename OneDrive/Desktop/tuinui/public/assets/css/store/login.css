@@ -1,0 +1,35 @@
+.noborderbg {
+    border: none !important;
+    background: none !important;
+}
+
+.ip {
+    width: 350px;
+}
+
+.text-center {
+    margin: 0 !important;
+}
+
+.text-end {
+    margin: 0 !important;
+}
+
+.text-start {
+    margin: 0 !important;
+}
+
+.loginbtn{
+    width: 100%;
+    max-width: 350px;
+}
+.centered {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .ip{
+      border-radius: 0px !important;
+  }

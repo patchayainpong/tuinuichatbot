@@ -1,0 +1,29 @@
+.alertborder {
+    border: red 1px solid !important;
+}
+#myDiv {
+    background: none;
+    position: relative;
+padding-left: 1px;
+padding-right: 1px;
+  z-index : 1;
+
+}
+#myDivcfpassword {
+    background: none;
+    position: relative;
+padding-left: 1px;
+padding-right: 1px;
+}
+.coloractive{
+    color: green !important;
+}
+.testipfile {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    opacity: 0;
+}
